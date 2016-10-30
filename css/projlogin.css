@@ -1,0 +1,45 @@
+body{
+    color:#2c3e50;
+    font-family: "Helvetica Neue","Roboto",Helvetica,Arial,sans-serif;
+}
+#BODY{
+    width:25%; 
+    padding: 5em;
+    padding-top: 5em;
+    margin:0 auto;
+}
+#heads{
+    padding-top:3.5em;
+}
+.right{
+    display:block;
+    font-size: 150%;
+    margin:0.5em 0em;
+    width:45%;
+}
+input[type=text],input[type=password],input[type=email],textarea{
+    padding:0.75em;
+    font-size:0.75em;
+}
+.Error{
+    color:red;
+    font-size: 16px;
+    width:200%;
+    display:inline-block;
+}
+.valid{
+    color:green;
+    font-size:16px;
+    width:200%;
+    display:inline;
+}
+#submit{
+    background-color:#f26b31;
+    opacity: 0.9;
+    color:aliceblue;
+    font-size:1.2em;
+    padding:0.75em 2em 0.75em 2em;
+    border-radius: 5px;
+}
+
+
